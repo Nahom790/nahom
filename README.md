@@ -1,2 +1,1 @@
-# nahom
-Student web
+ethio students 
